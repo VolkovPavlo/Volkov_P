@@ -1,5 +1,0 @@
-[Title]
-[Summary]
-[Description]
-[STR]
-[Expected result]
